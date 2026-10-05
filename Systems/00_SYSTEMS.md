@@ -15,3 +15,4 @@ Do not assume these systems are automatically synchronised. Importing Markdown d
 - [Planning Center and Church Center](01_PLANNING_CENTER.md)
 - [Notion and Google Drive](02_NOTION_AND_DRIVE.md)
 - [Projects and tasks proposal](03_PROJECTS_AND_TASKS.md)
+- [Tech Rock](Tech_Rock/00_TECH_ROCK.md)
