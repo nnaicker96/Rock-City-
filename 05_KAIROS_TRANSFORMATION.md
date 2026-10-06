@@ -52,6 +52,19 @@ The leaders’ pack develops these connected ideas:
 
 The pack describes personal receiving, shared understanding and cascade into the lives of those served. The recurring caterpillar, cocoon and butterfly imagery supports this formation journey.
 
+## Logos Core
+
+Logos Core is a distinct Rock City group that participates in the shared theological and leadership work of the Kairos year. Within Transformation, its working posture is **saturation before cascade**: leaders receive the Word personally, develop shared theological understanding, test formation implications, and only then translate the teaching into sermons, ministry environments, discipleship conversations and creative communication.
+
+Logos Core LABs are therefore not merely sermon-planning meetings. They are formation-and-discernment spaces. A LAB should normally protect this movement:
+
+1. **Revelation** — What is Scripture revealing about God, Christ, grace, holiness, Kingdom and the gospel?
+2. **Formation** — What must be surrendered, renewed, confronted or cultivated in us?
+3. **Function** — What does formed life now do in witness, worship, discipleship, fellowship, ministry and ordinary life?
+4. **Cascade** — How can leaders carry the theological centre faithfully into their ministry context without reducing it to a slogan or activity?
+
+See [Logos Core](Kairos_Transformation/Logos_Core/00_LOGOS_CORE.md) for the standing Logos Core context and [October–November LAB](Kairos_Transformation/Logos_Core/LABS/2026_10_11_NEXT_DOOR_MAKE_ROOM.md) for the current two-month development.
+
 ## Scripture and translation
 
 The leaders’ pack uses **KJV**. Key Transformation anchors in the wider work include **Romans 12:1–2** and **Romans 8:29**. Source passages used in the checked engagement section include Colossians 3:16; John 15:4–5; Galatians 5:22–25; Ezra 7:10; Philippians 2:1–5; 1 Timothy 4:12; and Ephesians 4:11–16.
