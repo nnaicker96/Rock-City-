@@ -41,3 +41,7 @@ Standing preferences and church context come from Nikyle’s supplied conversati
 Suggested task fields, maintenance practices and file organisation are proposals for this hub, not adopted church policy. Current pages are a snapshot of plans as at 3 October 2026, not confirmation that events occurred or systems are live.
 
 This is an operating context pack, not an archive of all source PDFs, images or private conversations. Original artwork and documents are not bundled. Personal medical information, family details and unrelated private history are outside its scope.
+
+## Mandatory creative execution
+
+For any Rock City artwork or design revision, read [Design Execution Protocol](Resources/DESIGN_EXECUTION_PROTOCOL.md) before producing output. For the current NEXT DOOR “WHO KNOCKED FOR YOU?” poster series, also read [its task-specific brief](Projects/NEXT_DOOR_WHO_KNOCKED_DESIGN_BRIEF.md). The current user instruction and approved artwork take precedence; never treat rejected trials as approved designs.
